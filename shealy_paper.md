@@ -20,7 +20,7 @@ The _Moralia_ holds the remainder of Plutarch's work.  Included in the _Moralia_
 
 [^3] : ibid.
 
-[^4]: Attic Greek was the language used by the educated class in the Roman Empire. [Citation?]
+[^4]: Attic Greek was the language used by the educated class in the Roman Empire. “Ancient Greek.” Wikipedia, Wikimedia Foundation, 14 Dec. 2018, en.wikipedia.org/wiki/Ancient_Greek.
 
 [^5]: “Plutarch.” *New World Encyclopedia*, www.newworldencyclopedia.org/entry/Plutarch#Life.
 
@@ -42,6 +42,7 @@ The women used their intelligence and the guards' lack of to help free themselve
 
 ## Bibliography
 
+1. “Ancient Greek.” Wikipedia, Wikimedia Foundation, 14 Dec. 2018, en.wikipedia.org/wiki/Ancient_Greek.
 1. “Hannibal.” History.com, A&E Television Networks, www.history.com/topics/ancient-history/hannibal.
 1. Karamanolis, George. “Plutarch.” Stanford Encyclopedia of Philosophy, Stanford University, 7 Sept. 2010, plato.stanford.edu/entries/plutarch/.
 1. “Plutarch.” Ohio River - New World Encyclopedia, New World Encyclopedia, www.newworldencyclopedia.org/entry/Plutarch#Life.
